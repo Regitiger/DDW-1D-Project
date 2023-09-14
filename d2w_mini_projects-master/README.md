@@ -13,7 +13,7 @@ This mini project is to create a simple web application for math quiz where user
 
 ## (Optional ) Mini Project 3
 
-This mini project is to create a simple AI Tic Tac Toe game where a user can play Tic Tac Toe against a computer. There is no grading on this part and you just need to explore on your own. 
+This mini project is to create a simple AI Tic Tac Toe game where a user can play Tic Tac Toe against a computer. There is no grading on this part and you just need to explore on your own.. 
 
 [Handout](mp_tictactoe/Readme.md)
 
